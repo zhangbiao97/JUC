@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JUC.iml" filepath="$PROJECT_DIR$/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmapendlessloop/hashmapendlessloop.iml" filepath="$PROJECT_DIR$/hashmapendlessloop/hashmapendlessloop.iml" />
     </modules>
   </component>
 </project>
